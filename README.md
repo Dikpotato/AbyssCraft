@@ -1,6 +1,10 @@
 # How to install:
+1. Step 1
+2. Step 2
+3. Step 3
 
-#To Do:
+
+# To Do:
 - Check Fabric compatibility
 - Check 1.8.2 migration
 - Evaluate compromises
